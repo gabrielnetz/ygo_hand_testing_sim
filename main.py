@@ -1,1 +1,5 @@
-print("this is a yugioh test")
+'''
+Yugioh hand simulator by @gabrielnetz
+'''
+
+
